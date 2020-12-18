@@ -1,3 +1,12 @@
+# Para correr el proyecto en la consola (ubicación del proyecto) poner:
+## npm start
+
+y listo!
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
